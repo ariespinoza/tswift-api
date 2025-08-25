@@ -1,0 +1,257 @@
+[
+  {
+    "name": "Taylor Swift",
+    "imageName": ["Debut"],
+    "releaseDate": "October 24, 2006",
+    "trackList": [
+      "Tim McGraw",
+      "Picture to Burn",
+      "Teardrops on My Guitar",
+      "A Place in This World",
+      "Cold as You",
+      "The Outside",
+      "Tied Together with a Smile",
+      "Stay Beautiful",
+      "Should've Said No",
+      "Mary's Song (Oh My My My)",
+      "Our Song"
+    ]
+  },
+  {
+    "name": "Fearless",
+    "imageName": ["Fearless", "FearlessTV"],
+    "releaseDate": "November 11, 2008",
+    "trackList": [
+      "Fearless",
+      "Fifteen",
+      "Love Story",
+      "Hey Stephen",
+      "White Horse",
+      "You Belong With Me",
+      "Breathe (feat. Colbie Caillat)",
+      "Tell Me Why",
+      "You’re Not Sorry",
+      "The Way I Loved You",
+      "Forever & Always",
+      "The Best Day",
+      "Change"
+    ]
+  },
+  {
+    "name": "Speak Now",
+    "imageName": ["SpeakNow", "SpeakNowTV"],
+    "releaseDate": "October 25, 2010",
+    "trackList": [
+      "Mine",
+      "Sparks Fly",
+      "Back to December",
+      "Speak Now",
+      "Dear John",
+      "Mean",
+      "The Story of Us",
+      "Never Grow Up",
+      "Enchanted",
+      "Better Than Revenge",
+      "Innocent",
+      "Haunted",
+      "Last Kiss",
+      "Long Live"
+    ]
+  },
+  {
+    "name": "Red",
+    "imageName": ["Red", "RedTV"],
+    "releaseDate": "October 22, 2012",
+    "trackList": [
+      "State of Grace",
+      "Red",
+      "Treacherous",
+      "I Knew You Were Trouble",
+      "All Too Well",
+      "22",
+      "I Almost Do",
+      "We Are Never Ever Getting Back Together",
+      "Stay Stay Stay",
+      "The Last Time (feat. Gary Lightbody)",
+      "Holy Ground",
+      "Sad Beautiful Tragic",
+      "The Lucky One",
+      "Everything Has Changed (feat. Ed Sheeran)",
+      "Starlight",
+      "Begin Again"
+    ]
+  },
+  {
+    "name": "1989",
+    "imageName": ["1989TS", "1989TV"],
+    "releaseDate": "November 10, 2017",
+    "trackList": [
+      "Welcome to New York",
+      "Blank Space",
+      "Style",
+      "Out of the Woods",
+      "All You Had to Do Was Stay",
+      "Shake It Off",
+      "I Wish You Would",
+      "Bad Blood",
+      "Wildest Dreams",
+      "How You Get the Girl",
+      "This Love",
+      "I Know Places",
+      "Clean",
+      "Wonderland",
+      "You Are in Love",
+      "New Romantics"
+    ]
+  },
+  {
+    "name": "Reputation",
+    "imageName": ["Reputation"],
+    "releaseDate": "November 10, 2017",
+    "trackList": [
+      "...Ready For It?",
+      "End Game with Ed Sheeran",
+      "I Did Something Bad",
+      "Don't Blame Me",
+      "Delicate",
+      "Look What You Made Me Do",
+      "So It Goes...",
+      "Gorgeous",
+      "Getaway Car"
+    ]
+  },
+  {
+    "name": "Lover",
+    "imageName": ["Lover"],
+    "releaseDate": "August 23, 2019",
+    "trackList": [
+      "I Forgot That You Existed",
+      "Cruel Summer",
+      "Lover",
+      "The Man",
+      "The Archer",
+      "I Think He Knows",
+      "Miss Americana & The Heartbreak Prince",
+      "Paper Rings",
+      "Cornelia Street",
+      "Death By A Thousand Cuts",
+      "London Boy",
+      "Soon You'll Get Better",
+      "False God",
+      "You Need To Calm Down",
+      "Afterglow",
+      "ME!",
+      "It's Nice To Have A Friend",
+      "Daylight"
+    ]
+  },
+  {
+    "name": "Folklore",
+    "imageName": ["Folklore"],
+    "releaseDate": "July 24, 2020",
+    "trackList": [
+      "the 1",
+      "cardigan",
+      "the last great American dynasty",
+      "exile",
+      "my tears ricochet",
+      "mirrorball",
+      "seven",
+      "august",
+      "this is me trying",
+      "illicit affairs",
+      "invisible string",
+      "mad woman",
+      "epiphany",
+      "betty",
+      "peace",
+      "hoax",
+      "the lakes"
+    ]
+  },
+  {
+    "name": "Evermore",
+    "imageName": ["Evermore"],
+    "releaseDate": "December 11, 2020",
+    "trackList": [
+      "willow",
+      "champagne problems",
+      "gold rush",
+      "’tis the damn season",
+      "tolerate it",
+      "no body, no crime",
+      "happiness",
+      "dorothea",
+      "coney island",
+      "ivy",
+      "cowboy like me",
+      "long story short",
+      "marjorie",
+      "closure",
+      "evermore"
+    ]
+  },
+  {
+    "name": "Midnights",
+    "imageName": ["Midnights"],
+    "releaseDate": "October 21, 2022",
+    "trackList": [
+      "Lavender Haze",
+      "Maroon",
+      "Anti-Hero",
+      "Snow On The Beach",
+      "You're On Your Own, Kid",
+      "Midnight Rain",
+      "Question...?",
+      "Vigilante Shit",
+      "Bejeweled",
+      "Labyrinth",
+      "Karma",
+      "Sweet Nothing",
+      "Mastermind"
+    ]
+  },
+  {
+    "name": "The Tortured Poets Department",
+    "imageName": ["TTPD"],
+    "releaseDate": "April 19, 2024",
+    "trackList": [
+      "Fortnight (Feat. Post Malone)",
+      "The Tortured Poets Department",
+      "My Boy Only Breaks His Favorite Toys",
+      "Down Bad",
+      "So Long, London",
+      "But Daddy I Love Him",
+      "Fresh Out The Slammer",
+      "Florida!!! (Feat. Florence and the Machine)",
+      "Guilty As Sin?",
+      "Who’s Afraid Of Little Old Me?",
+      "I Can Fix Him (No Really I Can)",
+      "Loml",
+      "I Can Do It With A Broken Heart",
+      "The Smallest Man Who Ever Lived",
+      "The Alchemy",
+      "Clara Bow",
+      "The Manuscript (Bonus Track)"
+    ]
+  },
+  {
+    "name": "The Life of a Showgirl",
+    "imageName": ["TLOAS"],
+    "releaseDate": "October 03, 2025",
+    "trackList": [
+      "The Fate of Ophelia",
+      "Elizabeth Taylor",
+      "Opalite",
+      "Father Figure",
+      "Eldest Daughter",
+      "Ruin the Friendship",
+      "Actually Romantic",
+      "Wish List",
+      "Wood",
+      "Cancelled!",
+      "Honey",
+      "The Life of a Showgirl (featuring Sabrina Carpenter)"
+    ]
+  }
+]
