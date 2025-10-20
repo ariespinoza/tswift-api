@@ -163,6 +163,5 @@ def delete_favorite(fav_id):
     return jsonify({"ok": True, "deletedId": fav_id})
 
 if __name__ == "__main__":
-    app.run(threaded=True, host="0.0.0.0", port=3000)
     # Importante: en local se escribirá favorites.json junto a app.py
     app.run(debug=True)
